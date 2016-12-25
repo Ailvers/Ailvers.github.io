@@ -34,7 +34,7 @@
 	font-size: 40px;
 	color: #0a3b7e;
 }
-.banner-inner h3{
+.banner-inner h3 {
 	font-size: 24px;
 	border: 1px solid #fff;
 	width: 200px;
@@ -46,8 +46,11 @@
 	background-color: #0a3b7e;
 	cursor: pointer;
 	border-radius: 10px;
-	color: #fff;
 } 
+.banner-inner h3 a{
+	color: #fff;
+	text-decoration:none;
+}
 .container{
 	width: 1000px;
 	height: 540px;
